@@ -1,0 +1,18 @@
+Ecuadorian Pico y Placa System (A.K.A. "Hoy no Circula"):
+According to the last number of your car license plate, you are not allowed to use your car.
+Mondays = 1 and 2
+Tuesdays = 3 and 4
+Wednesdays = 5 and 6
+Thursdays = 7 and 8
+Fridays = 9 and 0
+
+This restriction is applied from 5:00 to 20:00 
+
+Saturdays and Sundays are not included (All cars can be used)
+
+------------------------------------------------------------------------------------------------------------
+
+I've tried to do my best effort in order to complete the task. I chose Python because it is a new language
+for me (I've learned the basics only 3 months ago), so I thought it would be an interesting challenge.
+
+I truly appreciate the opportunity.

@@ -2,7 +2,6 @@ import datetime
 import re
 days = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday") #just the weekdays
 carlicplate = input("Enter your car license plate(Ex.: PQR-1234): ") #The user's input for the license plate (Current Ecuadorain format)
-print("---PICO Y PLACA---\n")
 
 y = re.match("[A-Z]{3}-[0-9]{4}$", carlicplate) #A regular expression is used to only accept inputs in a valid format according to the Ecuadorian current car license plate format 
 if(y is not None):
